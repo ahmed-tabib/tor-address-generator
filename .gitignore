@@ -1,3 +1,7 @@
+# Directories
+/bin
+/bin-int
+
 # Prerequisites
 *.d
 
